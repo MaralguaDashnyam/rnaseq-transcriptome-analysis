@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 ResTask03 — Gene/Transcript Comparison (Reference vs StringTie) — Refined
-Author: Hera Dashnyam (with assist)
+Author: Hera Dashnyam 
+
 Purpose:
   - Produce CLEAN, comparable tables for reference genes and StringTie results.
   - Add strand + category cols; normalize IDs (remove "gene:" prefixes).
