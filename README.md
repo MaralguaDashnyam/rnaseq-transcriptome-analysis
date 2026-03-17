@@ -80,9 +80,13 @@ Key steps:
 
 ![StringTie Locus Category Distribution](./figures/category_distribution.png)
 
+The majority of assembled loci are classified as C3, indicating that most transcripts correspond to known genes with additional isoform diversity. A substantial number of loci fall into C1, suggesting the presence of candidate novel gene regions in intergenic space. In contrast, C2 loci are relatively rare, indicating that partial overlaps with existing annotations are less common than either fully novel or clearly annotated transcript structures.
+
 ### StringTie Locus Span Distribution by Category
 
 ![StringTie Locus Span Distribution by Category](./figures/span_distribution_log.png)
+
+Locus span distributions differ across transcript categories, with C3 loci showing the largest median spans, consistent with full-length gene structures and isoform diversity within annotated genes. C2 loci exhibit shorter spans, likely reflecting partial or ambiguous transcript reconstructions overlapping known genes. C1 loci display a broader range of lengths, suggesting a mixture of potential novel genes and fragmented assemblies in intergenic regions.
 
 ---
 
