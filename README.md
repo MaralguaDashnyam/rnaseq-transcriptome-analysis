@@ -78,7 +78,7 @@ Key steps:
 
 ### StringTie Locus Category Distribution
 
-![StringTie Locus Category Distribution](figures/category_distribution.png)
+![StringTie Locus Category Distribution](./figures/category_distribution.png)
 
 ---
 
