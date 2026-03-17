@@ -80,11 +80,9 @@ Key steps:
 
 ![StringTie Locus Category Distribution](./figures/category_distribution.png)
 
----
+### StringTie Locus Span Distribution by Category
 
-### StringTie Locus Span Distribution (Log Scale)
-
-![StringTie Locus Span Distribution](figures/span_distribution_log.png)
+![StringTie Locus Span Distribution by Category](./figures/span_distribution_log.png)
 
 ---
 
